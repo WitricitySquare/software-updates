@@ -1,8 +1,8 @@
 {
   "app": "tr-cad-viewer",
-  "latest": "1.1.0",
+  "latest": "1.2.0",
   "released": "2026-11-02",
-  "download_url": "https://github.com/WitricitySquare/software-updates/releases/tag/tr-cad-viewer-v1.1.0",
-  "notes_ja": "・ツールバーにアイコンを追加（表示形式を選択可能）\n・Bounding Box を 3D ビューに表示\n・Measure 欄の軸の名前を色付きで表示\n・更新の確認を追加",
-  "notes_en": "- Toolbar icons (selectable style)\n- Bounding box drawn in the 3D view\n- Colored axis names in the Measure panel\n- Update check"
+  "download_url": "https://github.com/WitricitySquare/software-updates/releases/tag/tr-cad-viewer-v1.2.0",
+  "notes_ja": "・断面表示を追加（正面・上・右の平面でモデルを切って内部を表示）\n・切り口を部品ごとの色で塗りつぶし\n・断面を表示したまま距離を計測可能",
+  "notes_en": "- Section view (cut the model with a front, top or right plane)\n- Cut faces filled in a color per part\n- Measure distances while the section is shown"
 }
