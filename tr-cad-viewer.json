@@ -1,8 +1,8 @@
 {
   "app": "tr-cad-viewer",
-  "latest": "1.0.0",
-  "released": "2026-10-31",
-  "download_url": "https://github.com/WitricitySquare/software-updates/releases",
-  "notes_ja": "初版",
-  "notes_en": "First release"
+  "latest": "1.1.0",
+  "released": "2026-11-02",
+  "download_url": "https://github.com/WitricitySquare/software-updates/releases/tag/tr-cad-viewer-v1.1.0",
+  "notes_ja": "・ツールバーにアイコンを追加（表示形式を選択可能）\n・Bounding Box を 3D ビューに表示\n・Measure 欄の軸の名前を色付きで表示\n・更新の確認を追加",
+  "notes_en": "- Toolbar icons (selectable style)\n- Bounding box drawn in the 3D view\n- Colored axis names in the Measure panel\n- Update check"
 }
