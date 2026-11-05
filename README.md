@@ -29,6 +29,16 @@ Each release includes `SHA256SUMS.txt`. Compare it with:
 Get-FileHash .\<Setup file>.exe -Algorithm SHA256
 ```
 
+## "Source code (zip / tar.gz)" / 「Source code」のファイル
+
+GitHub adds "Source code (zip)" and "Source code (tar.gz)" to every release automatically;
+they cannot be removed. They contain only this repository's files (`README.md` and `*.json`),
+not the applications' source code, and are not needed for installation.
+
+各リリースの「Source code (zip)」「Source code (tar.gz)」は GitHub が自動で付けるもので、
+外すことはできません。中身はこのリポジトリのファイル（`README.md` と `*.json`）だけで、
+アプリケーションのソースコードは含まれていません。インストールには使いません。
+
 ## For maintainers / 管理者向け
 
 The format and the release procedure are in the internal skill `skills/update-check/SKILL.md`.
