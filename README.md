@@ -6,6 +6,7 @@ TOMOMI RESEARCH, INC. のデスクトップアプリケーションの更新情�
 | Product / 製品 | Latest / 最新版 | Download / ダウンロード |
 |---|---|---|
 | TR CAD Viewer | see [`tr-cad-viewer.json`](tr-cad-viewer.json) | [Releases](https://github.com/WitricitySquare/software-updates/releases) (tag `tr-cad-viewer-v*`) |
+| TR Camera Simulator | see [`tr-camera-simulator.json`](tr-camera-simulator.json) | [Releases](https://github.com/WitricitySquare/software-updates/releases) (tag `tr-camera-simulator-v*`; installer on request / インストーラはお問い合わせください) |
 
 ## How the applications use this repository / アプリとの関係
 
