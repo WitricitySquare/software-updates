@@ -1,0 +1,8 @@
+{
+  "app": "e3-motion-controller-mg400",
+  "latest": "1.3.0",
+  "released": "2026-11-06",
+  "download_url": "https://github.com/WitricitySquare/software-updates/releases/tag/e3-motion-controller-mg400-v1.3.0",
+  "notes_ja": "・速度段階 max（100 %）を追加（スティックのジョグのみ）\n・作業範囲をハードウェアガイドの形に合わせて拡大\n・Control タブのボタンを整理\n・新しいバージョンのお知らせを追加\n・Space / Esc キーの非常停止を廃止",
+  "notes_en": "- New speed level max (100 %, stick jogging only)\n- Workspace follows the shape in the Hardware Guide\n- Reorganized the Control tab buttons\n- New version notification\n- Removed the emergency stop on the Space / Esc keys"
+}

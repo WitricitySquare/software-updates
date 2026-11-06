@@ -7,6 +7,7 @@ TOMOMI RESEARCH, INC. のデスクトップアプリケーションの更新情�
 |---|---|---|
 | TR CAD Viewer | see [`tr-cad-viewer.json`](tr-cad-viewer.json) | [Releases](https://github.com/WitricitySquare/software-updates/releases) (tag `tr-cad-viewer-v*`) |
 | TR Camera Simulator | see [`tr-camera-simulator.json`](tr-camera-simulator.json) | [Releases](https://github.com/WitricitySquare/software-updates/releases) (tag `tr-camera-simulator-v*`; installer on request / インストーラはお問い合わせください) |
+| E3 ENGINE Motion Controller for Dobot MG400 | see [`e3-motion-controller-mg400.json`](e3-motion-controller-mg400.json) | [Releases](https://github.com/WitricitySquare/software-updates/releases) (tag `e3-motion-controller-mg400-v*`; the update check is on the app's Configure tab / 更新の確認はアプリの Configure タブ) |
 
 ## How the applications use this repository / アプリとの関係
 
